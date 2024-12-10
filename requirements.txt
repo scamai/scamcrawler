@@ -1,0 +1,38 @@
+# Database
+pymongo>=4.6.1
+psycopg2-binary>=2.9.9
+
+# Web Crawling
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+fake-useragent>=1.4.0
+
+# Domain Analysis
+python-whois>=0.8.0
+dnspython>=2.5.0
+tld>=0.13.0
+
+# Networking
+urllib3>=2.1.0
+
+# Concurrent Processing
+futures>=3.0.5
+
+# Data Processing
+pandas>=2.1.4
+
+# Type Hints
+typing-extensions>=4.9.0
+
+# Date/Time Handling
+pytz>=2023.3
+
+# HTML Processing
+html5lib>=1.1
+lxml>=5.0.0
+
+# Error Handling
+certifi>=2023.11.17
+
+# Logging
+python-json-logger>=2.0.7
